@@ -1,6 +1,7 @@
 baseURL: 'https://hhanh00.github.io/ywallet-docs/'
 languageCode: 'en-us'
 title: 'My New Hugo Site'
+canonifyURLs: true
 
 module:
   imports:
